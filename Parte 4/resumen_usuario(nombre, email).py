@@ -1,5 +1,3 @@
-import re
-
 def validar_email(email):
     """
     Valida si el email tiene una estructura básica correcta.
